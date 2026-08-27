@@ -11,4 +11,14 @@ This is my first Python program. It prints a message to the screen.
 
 ## What I Learned
 - how to create a Python file
-- 
+- How to display output using "print"
+- How to save and organize programming projects
+- How to upload a project to GitHub
+
+## Future Improvements
+- As the user for their name
+- Print a personalized greeting
+- Add comments
+
+## Author
+Created by Travis Brown as part of my Copmputer Science 1 course-work
